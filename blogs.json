@@ -1,5 +1,12 @@
 [
 	{
+		"title": "CODING HORROR",
+		"desc": "programming and human factors",
+		"url": "https://blog.codinghorror.com/",
+		"lan": "en",
+		"cats": ["Personal", "Programming", "Internet"]
+	},
+	{
 		"title": "Mashable",
 		"desc": "Mashable is a global, multi-platform media and entertainment company.",
 		"url": "http://mashable.com/",
@@ -7,10 +14,52 @@
 		"cats": ["Tech", "Entertainment", "Business", "Lifestyle", "Social Media"]
 	},
 	{
+		"title": "jadi",
+		"desc": "Jadi from Iran, trying to make the world a slightly better place.",
+		"url": "https://medium.com/@jadi",
+		"lan": "en",
+		"cats": ["Personal", "Hack"]
+	},
+	{
 		"title": "Zenhabits",
 		"desc": "breathe",
 		"url": "http://zenhabits.net/",
-		"lan": "fa",
+		"lan": "en",
+		"cats": ["Personal", "Minimalist"]
+	},
+	{
+		"title": "Lifehacker",
+		"desc": "Tips and downloads for getting things done",
+		"url": "http://lifehacker.com",
+		"lan": "en",
+		"cats": ["Lifestyle"]
+	},
+	{
+		"title": "Aeon | ideas and culture",
+		"desc": "Aeon is a magazine of ideas and culture. We publish in-depth essays, incisive articles, and a mix of original and curated videos — free to all.",
+		"url": "https://aeon.co/",
+		"lan": "en",
+		"cats": ["Ideas", "Culture", "Social"]
+	},
+	{
+		"title": "Goins, Writer",
+		"desc": "On Writing, Ideas, and Making a Difference",
+		"url": "http://goinswriter.com/",
+		"lan": "en",
+		"cats": ["Personal", "Writer", "Ideas"]
+	},
+	{
+		"title": "Paul Graham",
+		"desc": "programmer, writer, and investor.",
+		"url": "http://www.paulgraham.com/",
+		"lan": "en",
+		"cats": ["Personal", "Programmer", "Writer", "Investor"]
+	},
+	{
+		"title": "Not A Blog",
+		"desc": "George R.R. Martin's blog",
+		"url": "http://grrm.livejournal.com/",
+		"lan": "en",
 		"cats": ["Personal", "Minimalist"]
 	} 
 ]

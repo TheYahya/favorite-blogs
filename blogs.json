@@ -1,0 +1,16 @@
+[
+	{
+		"title": "Mashable",
+		"desc": "Mashable is a global, multi-platform media and entertainment company.",
+		"url": "http://mashable.com/",
+		"lan": "en",
+		"cats": ["Tech", "Entertainment", "Business", "Lifestyle", "Social Media"]
+	},
+	{
+		"title": "Zenhabits",
+		"desc": "breathe",
+		"url": "http://zenhabits.net/",
+		"lan": "fa",
+		"cats": ["Personal", "Minimalist"]
+	} 
+]

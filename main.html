@@ -1,0 +1,9 @@
+ 
+	<div class="col-sm-6 blog" ng-repeat="blog in blogs">
+		<article>
+			<h3><a href="{{blog.url}}" ng-class="{'more': (blog.title).length>20}">{{blog.title | limitTo: 20}}</a></h3>
+			<h5 ng-class="{'more': (blog.desc).length>40}">{{blog.desc | limitTo: 40}}</h5>
+			<span ng-repeat="cat in blog.cats | limitTo: 4" class="label label-info cat">{{cat}}</span> 
+		</article>
+	</div>	 
+ 

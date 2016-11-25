@@ -1,2 +1,2 @@
 # favorite-bogs
-Simple AngularJs Project - [demo](http://ysarbabi.github.io/favorite-blogs/)
+Simple AngularJs Project - [demo](https://ysarbabi.github.io/favorite-bogs/).

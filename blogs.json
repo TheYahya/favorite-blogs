@@ -61,5 +61,12 @@
 		"url": "http://grrm.livejournal.com/",
 		"lan": "en",
 		"cats": ["Personal", "Minimalist"]
+	},
+	{
+		"title": "UNEXECUTIVE",
+		"desc": "Toku is an amazing coach. He's been like this insightful, compassionate friend who challenges me and encourages me all at the same time.",
+		"url": "http://unexecutive.com/archives/",
+		"lan": "en",
+		"cats": ["Personal", "Minimalist"]
 	} 
 ]
